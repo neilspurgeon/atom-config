@@ -1,0 +1,24 @@
+"*":
+  core:
+    closeDeletedFileTabs: true
+    disabledPackages: [
+      "language-babel"
+    ]
+    projectHome: "/Users/neilspurgeon/Personal/websites"
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "base16-tomorrow-dark-theme"
+    ]
+  editor:
+    fontSize: 12
+    invisibles: {}
+    preferredLineLength: 100
+  "exception-reporting":
+    userId: "a8874f75-8fbe-4ce9-bf9d-f729a81114d3"
+  "linter-ui-default":
+    showPanel: true
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ensureSingleTrailingNewline: false
